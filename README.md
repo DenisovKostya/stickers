@@ -67,3 +67,4 @@ Tested with desktop Chrome at those viewport sizes. Physical iPhone/Android hard
 # stickers
 # stickers
 # stickers
+# stickers
