@@ -65,3 +65,4 @@ Optionally set `PLAYWRIGHT_MODULE` to the installed package path and `CHROMIUM_P
 
 Tested with desktop Chrome at those viewport sizes. Physical iPhone/Android hardware and Safari were not available for device testing; simulated screen widths do not verify the iOS software keyboard or notch behavior.
 # stickers
+# stickers
