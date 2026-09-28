@@ -1,0 +1,1712 @@
+{
+  "autumn": {
+    "0.webp": {
+      "title": "Watching a movie together",
+      "emoji": [
+        "🎬",
+        "🍿",
+        "🫂"
+      ],
+      "keywords": [
+        "movie",
+        "cinema",
+        "together"
+      ]
+    },
+    "1.webp": {
+      "title": "Cozy nap together",
+      "emoji": [
+        "😴",
+        "💤",
+        "🫂"
+      ],
+      "keywords": [
+        "sleep",
+        "nap",
+        "cuddle",
+        "blanket"
+      ]
+    },
+    "2.webp": {
+      "title": "Caring for a sleepy friend",
+      "emoji": [
+        "🥰",
+        "🫂",
+        "😴"
+      ],
+      "keywords": [
+        "care",
+        "comfort",
+        "sleep"
+      ]
+    },
+    "3.webp": {
+      "title": "Rainbow wonder",
+      "emoji": [
+        "🤩",
+        "🌈",
+        "✨"
+      ],
+      "keywords": [
+        "amazed",
+        "rainbow",
+        "pride"
+      ]
+    },
+    "4.webp": {
+      "title": "A letter for you",
+      "emoji": [
+        "💌",
+        "❤️",
+        "📬"
+      ],
+      "keywords": [
+        "letter",
+        "mail",
+        "love"
+      ]
+    },
+    "5.webp": {
+      "title": "Feeling chilly",
+      "emoji": [
+        "🥶",
+        "🧣"
+      ],
+      "keywords": [
+        "cold",
+        "chilly",
+        "scarf"
+      ]
+    },
+    "6.webp": {
+      "title": "Too sick to get up",
+      "emoji": [
+        "🤒",
+        "🛏️"
+      ],
+      "keywords": [
+        "sick",
+        "ill",
+        "fever",
+        "bed"
+      ]
+    },
+    "7.webp": {
+      "title": "Unimpressed at the cinema",
+      "emoji": [
+        "😒",
+        "🍿",
+        "🎬"
+      ],
+      "keywords": [
+        "bored",
+        "unimpressed",
+        "movie"
+      ]
+    },
+    "8.webp": {
+      "title": "Under an autumn umbrella",
+      "emoji": [
+        "☔",
+        "🍂"
+      ],
+      "keywords": [
+        "rain",
+        "umbrella",
+        "autumn"
+      ]
+    },
+    "9.webp": {
+      "title": "Missing you in the rain",
+      "emoji": [
+        "🥺",
+        "😢",
+        "☔"
+      ],
+      "keywords": [
+        "sad",
+        "lonely",
+        "rain",
+        "miss"
+      ]
+    },
+    "10.webp": {
+      "title": "Alone on a rainy bench",
+      "emoji": [
+        "😔",
+        "☔",
+        "💔"
+      ],
+      "keywords": [
+        "sad",
+        "lonely",
+        "rain"
+      ]
+    },
+    "11.webp": {
+      "title": "Leaving with a bundle",
+      "emoji": [
+        "🚶",
+        "🧳",
+        "👋"
+      ],
+      "keywords": [
+        "leave",
+        "goodbye",
+        "travel"
+      ]
+    },
+    "12.webp": {
+      "title": "Surprised while eating",
+      "emoji": [
+        "😳",
+        "🥣"
+      ],
+      "keywords": [
+        "surprised",
+        "breakfast",
+        "food"
+      ]
+    },
+    "13.webp": {
+      "title": "Working late at the computer",
+      "emoji": [
+        "💻",
+        "🎧",
+        "😵‍💫"
+      ],
+      "keywords": [
+        "work",
+        "tired",
+        "computer"
+      ]
+    },
+    "14.webp": {
+      "title": "Computer meltdown",
+      "emoji": [
+        "😱",
+        "💻",
+        "🔥"
+      ],
+      "keywords": [
+        "panic",
+        "error",
+        "stress",
+        "computer"
+      ]
+    },
+    "15.webp": {
+      "title": "Enjoying tea",
+      "emoji": [
+        "☕",
+        "😌"
+      ],
+      "keywords": [
+        "tea",
+        "calm",
+        "cozy",
+        "drink"
+      ]
+    },
+    "16.webp": {
+      "title": "Getting dressed in a hurry",
+      "emoji": [
+        "😳",
+        "🧣"
+      ],
+      "keywords": [
+        "dress",
+        "hurry",
+        "surprised"
+      ]
+    },
+    "17.webp": {
+      "title": "Swimming in money",
+      "emoji": [
+        "🤑",
+        "💸"
+      ],
+      "keywords": [
+        "money",
+        "rich",
+        "cash"
+      ]
+    },
+    "18.webp": {
+      "title": "Eating cake",
+      "emoji": [
+        "🍰",
+        "😋"
+      ],
+      "keywords": [
+        "cake",
+        "dessert",
+        "eat"
+      ]
+    },
+    "19.webp": {
+      "title": "Please take care of me",
+      "emoji": [
+        "🥺",
+        "🫶"
+      ],
+      "keywords": [
+        "please",
+        "care",
+        "adopt"
+      ]
+    },
+    "20.webp": {
+      "title": "Singing out loud",
+      "emoji": [
+        "🎤",
+        "🎶"
+      ],
+      "keywords": [
+        "sing",
+        "music"
+      ]
+    },
+    "21.webp": {
+      "title": "Playful tongue out",
+      "emoji": [
+        "😝",
+        "😜"
+      ],
+      "keywords": [
+        "tease",
+        "silly",
+        "tongue"
+      ]
+    },
+    "22.webp": {
+      "title": "Give me a hug",
+      "emoji": [
+        "🫂",
+        "🥺"
+      ],
+      "keywords": [
+        "hug",
+        "cuddle",
+        "please"
+      ]
+    },
+    "23.webp": {
+      "title": "Wiping away tears",
+      "emoji": [
+        "😭",
+        "😢",
+        "💔"
+      ],
+      "keywords": [
+        "cry",
+        "sad",
+        "tears"
+      ]
+    },
+    "24.webp": {
+      "title": "Hello on the phone",
+      "emoji": [
+        "📞",
+        "👋"
+      ],
+      "keywords": [
+        "phone",
+        "call",
+        "hello"
+      ]
+    },
+    "25.webp": {
+      "title": "Little devil on my shoulder",
+      "emoji": [
+        "😈",
+        "😳"
+      ],
+      "keywords": [
+        "mischief",
+        "temptation",
+        "devil"
+      ]
+    },
+    "26.webp": {
+      "title": "Please forgive me",
+      "emoji": [
+        "🙏",
+        "🥺"
+      ],
+      "keywords": [
+        "sorry",
+        "forgive",
+        "pleading"
+      ]
+    },
+    "27.webp": {
+      "title": "Sharing a little snack",
+      "emoji": [
+        "🥰",
+        "🍪"
+      ],
+      "keywords": [
+        "share",
+        "snack",
+        "care"
+      ]
+    },
+    "28.webp": {
+      "title": "Making peace",
+      "emoji": [
+        "🤝",
+        "❤️"
+      ],
+      "keywords": [
+        "peace",
+        "forgive",
+        "reconcile"
+      ]
+    },
+    "29.webp": {
+      "title": "Squeezing your cheeks",
+      "emoji": [
+        "🥰",
+        "🤗"
+      ],
+      "keywords": [
+        "affection",
+        "cheeks",
+        "cuddle"
+      ]
+    },
+    "30.webp": {
+      "title": "A tender kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love",
+        "cuddle"
+      ]
+    },
+    "31.webp": {
+      "title": "It is a deal",
+      "emoji": [
+        "🤝",
+        "✅"
+      ],
+      "keywords": [
+        "deal",
+        "agree",
+        "promise"
+      ]
+    },
+    "32.webp": {
+      "title": "Dashing through autumn",
+      "emoji": [
+        "🏃",
+        "🍂",
+        "💨"
+      ],
+      "keywords": [
+        "run",
+        "hurry",
+        "autumn"
+      ]
+    },
+    "33.webp": {
+      "title": "Kisses for you",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love"
+      ]
+    },
+    "34.webp": {
+      "title": "Sending a kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love"
+      ]
+    },
+    "35.webp": {
+      "title": "Tripping over leaves",
+      "emoji": [
+        "😳",
+        "🍂"
+      ],
+      "keywords": [
+        "clumsy",
+        "trip",
+        "surprised"
+      ]
+    },
+    "36.webp": {
+      "title": "I promise",
+      "emoji": [
+        "🤞",
+        "❤️"
+      ],
+      "keywords": [
+        "promise",
+        "love",
+        "commitment"
+      ]
+    },
+    "37.webp": {
+      "title": "Scolding a ghost",
+      "emoji": [
+        "👻",
+        "😠"
+      ],
+      "keywords": [
+        "ghost",
+        "scold",
+        "spooky"
+      ]
+    },
+    "38.webp": {
+      "title": "A playful swat",
+      "emoji": [
+        "😼",
+        "👋"
+      ],
+      "keywords": [
+        "playful",
+        "tease",
+        "swat"
+      ]
+    },
+    "39.webp": {
+      "title": "What was that",
+      "emoji": [
+        "🤨",
+        "❓"
+      ],
+      "keywords": [
+        "confused",
+        "question",
+        "what"
+      ]
+    },
+    "40.webp": {
+      "title": "Holding paws in the leaves",
+      "emoji": [
+        "🤝",
+        "❤️",
+        "🍂"
+      ],
+      "keywords": [
+        "hold",
+        "hands",
+        "love",
+        "autumn"
+      ]
+    },
+    "41.webp": {
+      "title": "Heart eyes",
+      "emoji": [
+        "😍",
+        "❤️",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "crush",
+        "adore"
+      ]
+    },
+    "42.webp": {
+      "title": "Memories together",
+      "emoji": [
+        "📸",
+        "❤️"
+      ],
+      "keywords": [
+        "photo",
+        "memories",
+        "together"
+      ]
+    },
+    "43.webp": {
+      "title": "Peekaboo behind a tree",
+      "emoji": [
+        "🙈",
+        "👋",
+        "🍂"
+      ],
+      "keywords": [
+        "peekaboo",
+        "hide",
+        "hello"
+      ]
+    },
+    "44.webp": {
+      "title": "Lying in autumn leaves",
+      "emoji": [
+        "🍂",
+        "🫂",
+        "😌"
+      ],
+      "keywords": [
+        "relax",
+        "together",
+        "autumn"
+      ]
+    },
+    "45.webp": {
+      "title": "A sweet kiss on the cheek",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "cheek",
+        "love"
+      ]
+    },
+    "46.webp": {
+      "title": "A shy loving hug",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "shy",
+        "love"
+      ]
+    },
+    "47.webp": {
+      "title": "Playing guitar together",
+      "emoji": [
+        "🎸",
+        "🎶",
+        "🥰"
+      ],
+      "keywords": [
+        "guitar",
+        "music",
+        "sing",
+        "together"
+      ]
+    }
+  },
+  "kohannya": {
+    "0.webp": {
+      "title": "Want some coffee",
+      "emoji": [
+        "☕",
+        "🥺"
+      ],
+      "keywords": [
+        "coffee",
+        "drink",
+        "invite"
+      ]
+    },
+    "1.webp": {
+      "title": "A quiet evening together",
+      "emoji": [
+        "🌙",
+        "✨",
+        "❤️"
+      ],
+      "keywords": [
+        "night",
+        "stars",
+        "date",
+        "love"
+      ]
+    },
+    "2.webp": {
+      "title": "A bedtime story",
+      "emoji": [
+        "📖",
+        "😴",
+        "💤"
+      ],
+      "keywords": [
+        "sleep",
+        "bedtime",
+        "story"
+      ]
+    },
+    "3.webp": {
+      "title": "Purring on the moon",
+      "emoji": [
+        "🌙",
+        "😻"
+      ],
+      "keywords": [
+        "purr",
+        "cute",
+        "night"
+      ]
+    },
+    "4.webp": {
+      "title": "Surprise gift",
+      "emoji": [
+        "🎁",
+        "🎉"
+      ],
+      "keywords": [
+        "surprise",
+        "gift",
+        "present"
+      ]
+    },
+    "5.webp": {
+      "title": "Ready for a kitchen battle",
+      "emoji": [
+        "🍳",
+        "🛡️"
+      ],
+      "keywords": [
+        "cook",
+        "playful",
+        "battle"
+      ]
+    },
+    "6.webp": {
+      "title": "Frying pan at the ready",
+      "emoji": [
+        "🍳",
+        "😠"
+      ],
+      "keywords": [
+        "cook",
+        "angry",
+        "pan"
+      ]
+    },
+    "7.webp": {
+      "title": "A relaxing spa morning",
+      "emoji": [
+        "🧖",
+        "☕",
+        "😌"
+      ],
+      "keywords": [
+        "spa",
+        "relax",
+        "self",
+        "care"
+      ]
+    },
+    "8.webp": {
+      "title": "Reading quietly",
+      "emoji": [
+        "📖",
+        "😐"
+      ],
+      "keywords": [
+        "read",
+        "book",
+        "calm"
+      ]
+    },
+    "9.webp": {
+      "title": "Sending love",
+      "emoji": [
+        "❤️",
+        "🥰",
+        "🫶"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "affection"
+      ]
+    },
+    "10.webp": {
+      "title": "Feeling shy",
+      "emoji": [
+        "🥺",
+        "🙈"
+      ],
+      "keywords": [
+        "shy",
+        "bashful",
+        "timid"
+      ]
+    },
+    "11.webp": {
+      "title": "Calm down",
+      "emoji": [
+        "😌",
+        "✋"
+      ],
+      "keywords": [
+        "calm",
+        "relax",
+        "patience"
+      ]
+    },
+    "12.webp": {
+      "title": "Shopping time",
+      "emoji": [
+        "🛍️",
+        "😍"
+      ],
+      "keywords": [
+        "shop",
+        "shopping",
+        "excited"
+      ]
+    },
+    "13.webp": {
+      "title": "Call me",
+      "emoji": [
+        "📞",
+        "🤙"
+      ],
+      "keywords": [
+        "call",
+        "phone"
+      ]
+    },
+    "14.webp": {
+      "title": "A heart for you",
+      "emoji": [
+        "❤️",
+        "🎁",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "gift"
+      ]
+    },
+    "15.webp": {
+      "title": "Sharing an umbrella",
+      "emoji": [
+        "☔",
+        "🫂",
+        "❤️"
+      ],
+      "keywords": [
+        "rain",
+        "comfort",
+        "together"
+      ]
+    },
+    "16.webp": {
+      "title": "Sulking after an argument",
+      "emoji": [
+        "😒",
+        "💔"
+      ],
+      "keywords": [
+        "sulk",
+        "upset",
+        "argument"
+      ]
+    },
+    "17.webp": {
+      "title": "Crying over a broken heart",
+      "emoji": [
+        "😭",
+        "💔",
+        "😢"
+      ],
+      "keywords": [
+        "cry",
+        "sad",
+        "heartbreak"
+      ]
+    },
+    "18.webp": {
+      "title": "A warm sleepy cuddle",
+      "emoji": [
+        "😴",
+        "🫂",
+        "🥰"
+      ],
+      "keywords": [
+        "sleep",
+        "hug",
+        "cuddle"
+      ]
+    },
+    "19.webp": {
+      "title": "Movie night together",
+      "emoji": [
+        "🎬",
+        "🍿",
+        "❤️"
+      ],
+      "keywords": [
+        "movie",
+        "cinema",
+        "date"
+      ]
+    },
+    "20.webp": {
+      "title": "Playing games together",
+      "emoji": [
+        "🎮",
+        "🛋️"
+      ],
+      "keywords": [
+        "game",
+        "play",
+        "together"
+      ]
+    },
+    "21.webp": {
+      "title": "Dancing together",
+      "emoji": [
+        "💃",
+        "🎶",
+        "🕺"
+      ],
+      "keywords": [
+        "dance",
+        "music",
+        "happy"
+      ]
+    },
+    "22.webp": {
+      "title": "Sketching a loved one",
+      "emoji": [
+        "🎨",
+        "✏️",
+        "❤️"
+      ],
+      "keywords": [
+        "draw",
+        "art",
+        "portrait",
+        "love"
+      ]
+    },
+    "23.webp": {
+      "title": "Getting ready",
+      "emoji": [
+        "💄",
+        "🪞"
+      ],
+      "keywords": [
+        "makeup",
+        "ready",
+        "beauty"
+      ]
+    },
+    "24.webp": {
+      "title": "Want to go for a walk",
+      "emoji": [
+        "🚶",
+        "👋"
+      ],
+      "keywords": [
+        "walk",
+        "invite",
+        "outside"
+      ]
+    },
+    "25.webp": {
+      "title": "Drawing a heart in the snow",
+      "emoji": [
+        "❤️",
+        "❄️"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "snow"
+      ]
+    },
+    "26.webp": {
+      "title": "A kiss on the cheek",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "cheek",
+        "love"
+      ]
+    },
+    "27.webp": {
+      "title": "I love you",
+      "emoji": [
+        "❤️",
+        "🥰",
+        "💌"
+      ],
+      "keywords": [
+        "love",
+        "adore"
+      ]
+    },
+    "28.webp": {
+      "title": "Our wedding day",
+      "emoji": [
+        "💍",
+        "👰",
+        "🤵"
+      ],
+      "keywords": [
+        "wedding",
+        "marriage",
+        "love"
+      ]
+    },
+    "29.webp": {
+      "title": "A romantic dinner",
+      "emoji": [
+        "🍷",
+        "❤️",
+        "🥂"
+      ],
+      "keywords": [
+        "date",
+        "dinner",
+        "romance"
+      ]
+    },
+    "30.webp": {
+      "title": "Holding my heart",
+      "emoji": [
+        "❤️",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "happy"
+      ]
+    },
+    "31.webp": {
+      "title": "You and me forever",
+      "emoji": [
+        "❤️",
+        "🌳"
+      ],
+      "keywords": [
+        "love",
+        "forever",
+        "together"
+      ]
+    },
+    "32.webp": {
+      "title": "A shy heart for you",
+      "emoji": [
+        "❤️",
+        "🥺"
+      ],
+      "keywords": [
+        "love",
+        "shy",
+        "heart"
+      ]
+    },
+    "33.webp": {
+      "title": "Flowers for you",
+      "emoji": [
+        "💐",
+        "🎁",
+        "❤️"
+      ],
+      "keywords": [
+        "flowers",
+        "gift",
+        "love"
+      ]
+    },
+    "34.webp": {
+      "title": "Good morning breakfast",
+      "emoji": [
+        "☀️",
+        "☕",
+        "🍳"
+      ],
+      "keywords": [
+        "morning",
+        "breakfast",
+        "coffee"
+      ]
+    },
+    "35.webp": {
+      "title": "Blowing a kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love"
+      ]
+    },
+    "36.webp": {
+      "title": "A happy hello",
+      "emoji": [
+        "👋",
+        "🤗"
+      ],
+      "keywords": [
+        "hello",
+        "hi",
+        "greeting"
+      ]
+    },
+    "37.webp": {
+      "title": "You are wonderful",
+      "emoji": [
+        "😍",
+        "❤️",
+        "🤩"
+      ],
+      "keywords": [
+        "love",
+        "admire",
+        "amazing"
+      ]
+    },
+    "38.webp": {
+      "title": "A big loving hug",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "cuddle",
+        "love"
+      ]
+    },
+    "39.webp": {
+      "title": "Sharing a cookie",
+      "emoji": [
+        "🍪",
+        "😋",
+        "🥰"
+      ],
+      "keywords": [
+        "cookie",
+        "share",
+        "snack"
+      ]
+    }
+  },
+  "summer": {
+    "0.webp": {
+      "title": "A happy hug",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "cuddle",
+        "love"
+      ]
+    },
+    "1.webp": {
+      "title": "You are welcome",
+      "emoji": [
+        "😊",
+        "🫶"
+      ],
+      "keywords": [
+        "welcome",
+        "thanks",
+        "happy"
+      ]
+    },
+    "2.webp": {
+      "title": "We are losing the patient",
+      "emoji": [
+        "😱",
+        "🩺"
+      ],
+      "keywords": [
+        "panic",
+        "doctor",
+        "emergency"
+      ]
+    },
+    "3.webp": {
+      "title": "Feeling bashful",
+      "emoji": [
+        "🥺",
+        "🙈"
+      ],
+      "keywords": [
+        "shy",
+        "bashful"
+      ]
+    },
+    "4.webp": {
+      "title": "Suspicious sideways glance",
+      "emoji": [
+        "🤨",
+        "👀"
+      ],
+      "keywords": [
+        "suspicious",
+        "skeptical",
+        "glance"
+      ]
+    },
+    "5.webp": {
+      "title": "A sunset kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "sunset",
+        "love"
+      ]
+    },
+    "6.webp": {
+      "title": "Love with open arms",
+      "emoji": [
+        "❤️",
+        "🤗"
+      ],
+      "keywords": [
+        "love",
+        "hug",
+        "welcome"
+      ]
+    },
+    "7.webp": {
+      "title": "Hugging a heart",
+      "emoji": [
+        "❤️",
+        "🫂",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "hug"
+      ]
+    },
+    "8.webp": {
+      "title": "Dancing in the sunshine",
+      "emoji": [
+        "💃",
+        "🕺",
+        "☀️"
+      ],
+      "keywords": [
+        "dance",
+        "summer",
+        "happy"
+      ]
+    },
+    "9.webp": {
+      "title": "Good morning cuddle",
+      "emoji": [
+        "☀️",
+        "🫂",
+        "😴"
+      ],
+      "keywords": [
+        "morning",
+        "cuddle",
+        "sleep"
+      ]
+    },
+    "10.webp": {
+      "title": "A playful nibble",
+      "emoji": [
+        "😋",
+        "😼"
+      ],
+      "keywords": [
+        "bite",
+        "nibble",
+        "playful"
+      ]
+    },
+    "11.webp": {
+      "title": "Love bites",
+      "emoji": [
+        "😼",
+        "❤️"
+      ],
+      "keywords": [
+        "bite",
+        "nibble",
+        "love"
+      ]
+    },
+    "12.webp": {
+      "title": "Together in the sand",
+      "emoji": [
+        "🏖️",
+        "❤️"
+      ],
+      "keywords": [
+        "beach",
+        "together",
+        "summer"
+      ]
+    },
+    "13.webp": {
+      "title": "A kiss on the forehead",
+      "emoji": [
+        "😘",
+        "💋",
+        "🥰"
+      ],
+      "keywords": [
+        "kiss",
+        "care",
+        "forehead"
+      ]
+    },
+    "14.webp": {
+      "title": "So much love",
+      "emoji": [
+        "❤️",
+        "🥰",
+        "😍"
+      ],
+      "keywords": [
+        "love",
+        "adore"
+      ]
+    },
+    "15.webp": {
+      "title": "You are my sunshine",
+      "emoji": [
+        "☀️",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "sunshine",
+        "love",
+        "adore"
+      ]
+    },
+    "16.webp": {
+      "title": "A gentle cheek kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "cheek",
+        "love"
+      ]
+    },
+    "17.webp": {
+      "title": "Blushing with delight",
+      "emoji": [
+        "🥰",
+        "😊",
+        "🙈"
+      ],
+      "keywords": [
+        "blush",
+        "shy",
+        "happy"
+      ]
+    },
+    "18.webp": {
+      "title": "Oh my",
+      "emoji": [
+        "😏",
+        "👓"
+      ],
+      "keywords": [
+        "surprised",
+        "glasses",
+        "oh",
+        "my"
+      ]
+    },
+    "19.webp": {
+      "title": "Feeling like royalty",
+      "emoji": [
+        "👑",
+        "😏"
+      ],
+      "keywords": [
+        "queen",
+        "royal",
+        "confident"
+      ]
+    },
+    "20.webp": {
+      "title": "Little paws",
+      "emoji": [
+        "🐾",
+        "🥺"
+      ],
+      "keywords": [
+        "paws",
+        "helpless",
+        "please"
+      ]
+    },
+    "21.webp": {
+      "title": "With love from the sea",
+      "emoji": [
+        "🌊",
+        "❤️",
+        "⛵"
+      ],
+      "keywords": [
+        "sea",
+        "holiday",
+        "love"
+      ]
+    },
+    "22.webp": {
+      "title": "Enjoying ice cream",
+      "emoji": [
+        "🍦",
+        "😋"
+      ],
+      "keywords": [
+        "ice",
+        "cream",
+        "eat",
+        "dessert"
+      ]
+    },
+    "23.webp": {
+      "title": "Melting in the heat",
+      "emoji": [
+        "🥵",
+        "🫠",
+        "🍦"
+      ],
+      "keywords": [
+        "hot",
+        "heat",
+        "melting"
+      ]
+    },
+    "24.webp": {
+      "title": "Off on holiday",
+      "emoji": [
+        "🚗",
+        "🏖️",
+        "😎"
+      ],
+      "keywords": [
+        "holiday",
+        "vacation",
+        "travel"
+      ]
+    },
+    "25.webp": {
+      "title": "Relaxing at the beach",
+      "emoji": [
+        "🏖️",
+        "😎"
+      ],
+      "keywords": [
+        "beach",
+        "relax",
+        "holiday"
+      ]
+    },
+    "26.webp": {
+      "title": "Snacks on the sofa",
+      "emoji": [
+        "🍕",
+        "🎮"
+      ],
+      "keywords": [
+        "food",
+        "pizza",
+        "game",
+        "lazy"
+      ]
+    },
+    "27.webp": {
+      "title": "Workout time",
+      "emoji": [
+        "💪",
+        "🏋️"
+      ],
+      "keywords": [
+        "exercise",
+        "workout",
+        "fitness"
+      ]
+    },
+    "28.webp": {
+      "title": "Too hot to move",
+      "emoji": [
+        "🥵",
+        "☀️",
+        "🫠"
+      ],
+      "keywords": [
+        "hot",
+        "heat",
+        "summer"
+      ]
+    },
+    "29.webp": {
+      "title": "I am here for you",
+      "emoji": [
+        "🫂",
+        "❤️",
+        "🥰"
+      ],
+      "keywords": [
+        "hug",
+        "support",
+        "comfort"
+      ]
+    },
+    "30.webp": {
+      "title": "A reassuring shoulder pat",
+      "emoji": [
+        "🤗",
+        "🫶"
+      ],
+      "keywords": [
+        "comfort",
+        "support",
+        "care"
+      ]
+    },
+    "31.webp": {
+      "title": "Stop right there",
+      "emoji": [
+        "✋",
+        "😠"
+      ],
+      "keywords": [
+        "stop",
+        "no",
+        "annoyed"
+      ]
+    },
+    "32.webp": {
+      "title": "Please do not",
+      "emoji": [
+        "🥺",
+        "🙏"
+      ],
+      "keywords": [
+        "please",
+        "no",
+        "pleading"
+      ]
+    },
+    "33.webp": {
+      "title": "Shy and blushing",
+      "emoji": [
+        "😊",
+        "🙈",
+        "🥰"
+      ],
+      "keywords": [
+        "shy",
+        "blush",
+        "happy"
+      ]
+    },
+    "34.webp": {
+      "title": "Hugging my favorite person",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "love",
+        "cuddle"
+      ]
+    },
+    "35.webp": {
+      "title": "Banana ban",
+      "emoji": [
+        "🍌",
+        "😠",
+        "⛔"
+      ],
+      "keywords": [
+        "ban",
+        "stop",
+        "angry",
+        "banana"
+      ]
+    },
+    "36.webp": {
+      "title": "A confused little face",
+      "emoji": [
+        "😳",
+        "❓"
+      ],
+      "keywords": [
+        "confused",
+        "surprise"
+      ]
+    },
+    "37.webp": {
+      "title": "A comforting head kiss",
+      "emoji": [
+        "😘",
+        "🫂",
+        "🥺"
+      ],
+      "keywords": [
+        "kiss",
+        "comfort",
+        "sad"
+      ]
+    },
+    "38.webp": {
+      "title": "Listening to music together",
+      "emoji": [
+        "🎧",
+        "🎶",
+        "😌"
+      ],
+      "keywords": [
+        "music",
+        "relax",
+        "together"
+      ]
+    },
+    "39.webp": {
+      "title": "Walking together at night",
+      "emoji": [
+        "🌙",
+        "🫂",
+        "❤️"
+      ],
+      "keywords": [
+        "night",
+        "walk",
+        "date"
+      ]
+    },
+    "40.webp": {
+      "title": "Just married",
+      "emoji": [
+        "💍",
+        "🎉",
+        "❤️"
+      ],
+      "keywords": [
+        "wedding",
+        "marriage",
+        "celebrate"
+      ]
+    },
+    "41.webp": {
+      "title": "Dinner and wine together",
+      "emoji": [
+        "🍷",
+        "🥂",
+        "❤️"
+      ],
+      "keywords": [
+        "dinner",
+        "date",
+        "romance"
+      ]
+    },
+    "42.webp": {
+      "title": "Time to sleep",
+      "emoji": [
+        "😴",
+        "💤"
+      ],
+      "keywords": [
+        "sleep",
+        "tired",
+        "bedtime"
+      ]
+    },
+    "43.webp": {
+      "title": "Good night cuddle",
+      "emoji": [
+        "🌙",
+        "😴",
+        "🫂"
+      ],
+      "keywords": [
+        "night",
+        "sleep",
+        "cuddle"
+      ]
+    },
+    "44.webp": {
+      "title": "Relaxing in a field of flowers",
+      "emoji": [
+        "🌼",
+        "😌"
+      ],
+      "keywords": [
+        "flowers",
+        "relax",
+        "nature"
+      ]
+    },
+    "45.webp": {
+      "title": "Awkward and embarrassed",
+      "emoji": [
+        "😬",
+        "🙈"
+      ],
+      "keywords": [
+        "awkward",
+        "embarrassed"
+      ]
+    },
+    "46.webp": {
+      "title": "Barbecue time",
+      "emoji": [
+        "🍢",
+        "😋"
+      ],
+      "keywords": [
+        "barbecue",
+        "grill",
+        "food"
+      ]
+    },
+    "47.webp": {
+      "title": "Shoo little bug",
+      "emoji": [
+        "🦟",
+        "😠"
+      ],
+      "keywords": [
+        "mosquito",
+        "bug",
+        "annoyed"
+      ]
+    }
+  }
+}

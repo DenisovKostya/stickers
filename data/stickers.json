@@ -1,0 +1,2541 @@
+{
+  "packs": [
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "count": 48
+    },
+    {
+      "id": "kohannya",
+      "name": "Kohannya",
+      "count": 40
+    },
+    {
+      "id": "summer",
+      "name": "Summer",
+      "count": 48
+    }
+  ],
+  "stickers": [
+    {
+      "id": "autumn-0",
+      "pack": "autumn",
+      "file": "stickers/autumn/0.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Watching a movie together",
+      "emoji": [
+        "🎬",
+        "🍿",
+        "🫂"
+      ],
+      "keywords": [
+        "movie",
+        "cinema",
+        "together"
+      ]
+    },
+    {
+      "id": "autumn-1",
+      "pack": "autumn",
+      "file": "stickers/autumn/1.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Cozy nap together",
+      "emoji": [
+        "😴",
+        "💤",
+        "🫂"
+      ],
+      "keywords": [
+        "sleep",
+        "nap",
+        "cuddle",
+        "blanket"
+      ]
+    },
+    {
+      "id": "autumn-2",
+      "pack": "autumn",
+      "file": "stickers/autumn/2.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Caring for a sleepy friend",
+      "emoji": [
+        "🥰",
+        "🫂",
+        "😴"
+      ],
+      "keywords": [
+        "care",
+        "comfort",
+        "sleep"
+      ]
+    },
+    {
+      "id": "autumn-3",
+      "pack": "autumn",
+      "file": "stickers/autumn/3.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Rainbow wonder",
+      "emoji": [
+        "🤩",
+        "🌈",
+        "✨"
+      ],
+      "keywords": [
+        "amazed",
+        "rainbow",
+        "pride"
+      ]
+    },
+    {
+      "id": "autumn-4",
+      "pack": "autumn",
+      "file": "stickers/autumn/4.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A letter for you",
+      "emoji": [
+        "💌",
+        "❤️",
+        "📬"
+      ],
+      "keywords": [
+        "letter",
+        "mail",
+        "love"
+      ]
+    },
+    {
+      "id": "autumn-5",
+      "pack": "autumn",
+      "file": "stickers/autumn/5.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Feeling chilly",
+      "emoji": [
+        "🥶",
+        "🧣"
+      ],
+      "keywords": [
+        "cold",
+        "chilly",
+        "scarf"
+      ]
+    },
+    {
+      "id": "autumn-6",
+      "pack": "autumn",
+      "file": "stickers/autumn/6.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Too sick to get up",
+      "emoji": [
+        "🤒",
+        "🛏️"
+      ],
+      "keywords": [
+        "sick",
+        "ill",
+        "fever",
+        "bed"
+      ]
+    },
+    {
+      "id": "autumn-7",
+      "pack": "autumn",
+      "file": "stickers/autumn/7.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Unimpressed at the cinema",
+      "emoji": [
+        "😒",
+        "🍿",
+        "🎬"
+      ],
+      "keywords": [
+        "bored",
+        "unimpressed",
+        "movie"
+      ]
+    },
+    {
+      "id": "autumn-8",
+      "pack": "autumn",
+      "file": "stickers/autumn/8.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Under an autumn umbrella",
+      "emoji": [
+        "☔",
+        "🍂"
+      ],
+      "keywords": [
+        "rain",
+        "umbrella",
+        "autumn"
+      ]
+    },
+    {
+      "id": "autumn-9",
+      "pack": "autumn",
+      "file": "stickers/autumn/9.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Missing you in the rain",
+      "emoji": [
+        "🥺",
+        "😢",
+        "☔"
+      ],
+      "keywords": [
+        "sad",
+        "lonely",
+        "rain",
+        "miss"
+      ]
+    },
+    {
+      "id": "autumn-10",
+      "pack": "autumn",
+      "file": "stickers/autumn/10.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Alone on a rainy bench",
+      "emoji": [
+        "😔",
+        "☔",
+        "💔"
+      ],
+      "keywords": [
+        "sad",
+        "lonely",
+        "rain"
+      ]
+    },
+    {
+      "id": "autumn-11",
+      "pack": "autumn",
+      "file": "stickers/autumn/11.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Leaving with a bundle",
+      "emoji": [
+        "🚶",
+        "🧳",
+        "👋"
+      ],
+      "keywords": [
+        "leave",
+        "goodbye",
+        "travel"
+      ]
+    },
+    {
+      "id": "autumn-12",
+      "pack": "autumn",
+      "file": "stickers/autumn/12.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Surprised while eating",
+      "emoji": [
+        "😳",
+        "🥣"
+      ],
+      "keywords": [
+        "surprised",
+        "breakfast",
+        "food"
+      ]
+    },
+    {
+      "id": "autumn-13",
+      "pack": "autumn",
+      "file": "stickers/autumn/13.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Working late at the computer",
+      "emoji": [
+        "💻",
+        "🎧",
+        "😵‍💫"
+      ],
+      "keywords": [
+        "work",
+        "tired",
+        "computer"
+      ]
+    },
+    {
+      "id": "autumn-14",
+      "pack": "autumn",
+      "file": "stickers/autumn/14.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Computer meltdown",
+      "emoji": [
+        "😱",
+        "💻",
+        "🔥"
+      ],
+      "keywords": [
+        "panic",
+        "error",
+        "stress",
+        "computer"
+      ]
+    },
+    {
+      "id": "autumn-15",
+      "pack": "autumn",
+      "file": "stickers/autumn/15.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Enjoying tea",
+      "emoji": [
+        "☕",
+        "😌"
+      ],
+      "keywords": [
+        "tea",
+        "calm",
+        "cozy",
+        "drink"
+      ]
+    },
+    {
+      "id": "autumn-16",
+      "pack": "autumn",
+      "file": "stickers/autumn/16.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Getting dressed in a hurry",
+      "emoji": [
+        "😳",
+        "🧣"
+      ],
+      "keywords": [
+        "dress",
+        "hurry",
+        "surprised"
+      ]
+    },
+    {
+      "id": "autumn-17",
+      "pack": "autumn",
+      "file": "stickers/autumn/17.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Swimming in money",
+      "emoji": [
+        "🤑",
+        "💸"
+      ],
+      "keywords": [
+        "money",
+        "rich",
+        "cash"
+      ]
+    },
+    {
+      "id": "autumn-18",
+      "pack": "autumn",
+      "file": "stickers/autumn/18.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Eating cake",
+      "emoji": [
+        "🍰",
+        "😋"
+      ],
+      "keywords": [
+        "cake",
+        "dessert",
+        "eat"
+      ]
+    },
+    {
+      "id": "autumn-19",
+      "pack": "autumn",
+      "file": "stickers/autumn/19.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Please take care of me",
+      "emoji": [
+        "🥺",
+        "🫶"
+      ],
+      "keywords": [
+        "please",
+        "care",
+        "adopt"
+      ]
+    },
+    {
+      "id": "autumn-20",
+      "pack": "autumn",
+      "file": "stickers/autumn/20.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Singing out loud",
+      "emoji": [
+        "🎤",
+        "🎶"
+      ],
+      "keywords": [
+        "sing",
+        "music"
+      ]
+    },
+    {
+      "id": "autumn-21",
+      "pack": "autumn",
+      "file": "stickers/autumn/21.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Playful tongue out",
+      "emoji": [
+        "😝",
+        "😜"
+      ],
+      "keywords": [
+        "tease",
+        "silly",
+        "tongue"
+      ]
+    },
+    {
+      "id": "autumn-22",
+      "pack": "autumn",
+      "file": "stickers/autumn/22.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Give me a hug",
+      "emoji": [
+        "🫂",
+        "🥺"
+      ],
+      "keywords": [
+        "hug",
+        "cuddle",
+        "please"
+      ]
+    },
+    {
+      "id": "autumn-23",
+      "pack": "autumn",
+      "file": "stickers/autumn/23.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Wiping away tears",
+      "emoji": [
+        "😭",
+        "😢",
+        "💔"
+      ],
+      "keywords": [
+        "cry",
+        "sad",
+        "tears"
+      ]
+    },
+    {
+      "id": "autumn-24",
+      "pack": "autumn",
+      "file": "stickers/autumn/24.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Hello on the phone",
+      "emoji": [
+        "📞",
+        "👋"
+      ],
+      "keywords": [
+        "phone",
+        "call",
+        "hello"
+      ]
+    },
+    {
+      "id": "autumn-25",
+      "pack": "autumn",
+      "file": "stickers/autumn/25.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Little devil on my shoulder",
+      "emoji": [
+        "😈",
+        "😳"
+      ],
+      "keywords": [
+        "mischief",
+        "temptation",
+        "devil"
+      ]
+    },
+    {
+      "id": "autumn-26",
+      "pack": "autumn",
+      "file": "stickers/autumn/26.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Please forgive me",
+      "emoji": [
+        "🙏",
+        "🥺"
+      ],
+      "keywords": [
+        "sorry",
+        "forgive",
+        "pleading"
+      ]
+    },
+    {
+      "id": "autumn-27",
+      "pack": "autumn",
+      "file": "stickers/autumn/27.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sharing a little snack",
+      "emoji": [
+        "🥰",
+        "🍪"
+      ],
+      "keywords": [
+        "share",
+        "snack",
+        "care"
+      ]
+    },
+    {
+      "id": "autumn-28",
+      "pack": "autumn",
+      "file": "stickers/autumn/28.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Making peace",
+      "emoji": [
+        "🤝",
+        "❤️"
+      ],
+      "keywords": [
+        "peace",
+        "forgive",
+        "reconcile"
+      ]
+    },
+    {
+      "id": "autumn-29",
+      "pack": "autumn",
+      "file": "stickers/autumn/29.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Squeezing your cheeks",
+      "emoji": [
+        "🥰",
+        "🤗"
+      ],
+      "keywords": [
+        "affection",
+        "cheeks",
+        "cuddle"
+      ]
+    },
+    {
+      "id": "autumn-30",
+      "pack": "autumn",
+      "file": "stickers/autumn/30.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A tender kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love",
+        "cuddle"
+      ]
+    },
+    {
+      "id": "autumn-31",
+      "pack": "autumn",
+      "file": "stickers/autumn/31.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "It is a deal",
+      "emoji": [
+        "🤝",
+        "✅"
+      ],
+      "keywords": [
+        "deal",
+        "agree",
+        "promise"
+      ]
+    },
+    {
+      "id": "autumn-32",
+      "pack": "autumn",
+      "file": "stickers/autumn/32.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Dashing through autumn",
+      "emoji": [
+        "🏃",
+        "🍂",
+        "💨"
+      ],
+      "keywords": [
+        "run",
+        "hurry",
+        "autumn"
+      ]
+    },
+    {
+      "id": "autumn-33",
+      "pack": "autumn",
+      "file": "stickers/autumn/33.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Kisses for you",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love"
+      ]
+    },
+    {
+      "id": "autumn-34",
+      "pack": "autumn",
+      "file": "stickers/autumn/34.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sending a kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love"
+      ]
+    },
+    {
+      "id": "autumn-35",
+      "pack": "autumn",
+      "file": "stickers/autumn/35.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Tripping over leaves",
+      "emoji": [
+        "😳",
+        "🍂"
+      ],
+      "keywords": [
+        "clumsy",
+        "trip",
+        "surprised"
+      ]
+    },
+    {
+      "id": "autumn-36",
+      "pack": "autumn",
+      "file": "stickers/autumn/36.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "I promise",
+      "emoji": [
+        "🤞",
+        "❤️"
+      ],
+      "keywords": [
+        "promise",
+        "love",
+        "commitment"
+      ]
+    },
+    {
+      "id": "autumn-37",
+      "pack": "autumn",
+      "file": "stickers/autumn/37.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Scolding a ghost",
+      "emoji": [
+        "👻",
+        "😠"
+      ],
+      "keywords": [
+        "ghost",
+        "scold",
+        "spooky"
+      ]
+    },
+    {
+      "id": "autumn-38",
+      "pack": "autumn",
+      "file": "stickers/autumn/38.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A playful swat",
+      "emoji": [
+        "😼",
+        "👋"
+      ],
+      "keywords": [
+        "playful",
+        "tease",
+        "swat"
+      ]
+    },
+    {
+      "id": "autumn-39",
+      "pack": "autumn",
+      "file": "stickers/autumn/39.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "What was that",
+      "emoji": [
+        "🤨",
+        "❓"
+      ],
+      "keywords": [
+        "confused",
+        "question",
+        "what"
+      ]
+    },
+    {
+      "id": "autumn-40",
+      "pack": "autumn",
+      "file": "stickers/autumn/40.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Holding paws in the leaves",
+      "emoji": [
+        "🤝",
+        "❤️",
+        "🍂"
+      ],
+      "keywords": [
+        "hold",
+        "hands",
+        "love",
+        "autumn"
+      ]
+    },
+    {
+      "id": "autumn-41",
+      "pack": "autumn",
+      "file": "stickers/autumn/41.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Heart eyes",
+      "emoji": [
+        "😍",
+        "❤️",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "crush",
+        "adore"
+      ]
+    },
+    {
+      "id": "autumn-42",
+      "pack": "autumn",
+      "file": "stickers/autumn/42.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Memories together",
+      "emoji": [
+        "📸",
+        "❤️"
+      ],
+      "keywords": [
+        "photo",
+        "memories",
+        "together"
+      ]
+    },
+    {
+      "id": "autumn-43",
+      "pack": "autumn",
+      "file": "stickers/autumn/43.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Peekaboo behind a tree",
+      "emoji": [
+        "🙈",
+        "👋",
+        "🍂"
+      ],
+      "keywords": [
+        "peekaboo",
+        "hide",
+        "hello"
+      ]
+    },
+    {
+      "id": "autumn-44",
+      "pack": "autumn",
+      "file": "stickers/autumn/44.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Lying in autumn leaves",
+      "emoji": [
+        "🍂",
+        "🫂",
+        "😌"
+      ],
+      "keywords": [
+        "relax",
+        "together",
+        "autumn"
+      ]
+    },
+    {
+      "id": "autumn-45",
+      "pack": "autumn",
+      "file": "stickers/autumn/45.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A sweet kiss on the cheek",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "cheek",
+        "love"
+      ]
+    },
+    {
+      "id": "autumn-46",
+      "pack": "autumn",
+      "file": "stickers/autumn/46.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A shy loving hug",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "shy",
+        "love"
+      ]
+    },
+    {
+      "id": "autumn-47",
+      "pack": "autumn",
+      "file": "stickers/autumn/47.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Playing guitar together",
+      "emoji": [
+        "🎸",
+        "🎶",
+        "🥰"
+      ],
+      "keywords": [
+        "guitar",
+        "music",
+        "sing",
+        "together"
+      ]
+    },
+    {
+      "id": "kohannya-0",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/0.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Want some coffee",
+      "emoji": [
+        "☕",
+        "🥺"
+      ],
+      "keywords": [
+        "coffee",
+        "drink",
+        "invite"
+      ]
+    },
+    {
+      "id": "kohannya-1",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/1.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A quiet evening together",
+      "emoji": [
+        "🌙",
+        "✨",
+        "❤️"
+      ],
+      "keywords": [
+        "night",
+        "stars",
+        "date",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-2",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/2.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A bedtime story",
+      "emoji": [
+        "📖",
+        "😴",
+        "💤"
+      ],
+      "keywords": [
+        "sleep",
+        "bedtime",
+        "story"
+      ]
+    },
+    {
+      "id": "kohannya-3",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/3.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Purring on the moon",
+      "emoji": [
+        "🌙",
+        "😻"
+      ],
+      "keywords": [
+        "purr",
+        "cute",
+        "night"
+      ]
+    },
+    {
+      "id": "kohannya-4",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/4.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Surprise gift",
+      "emoji": [
+        "🎁",
+        "🎉"
+      ],
+      "keywords": [
+        "surprise",
+        "gift",
+        "present"
+      ]
+    },
+    {
+      "id": "kohannya-5",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/5.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Ready for a kitchen battle",
+      "emoji": [
+        "🍳",
+        "🛡️"
+      ],
+      "keywords": [
+        "cook",
+        "playful",
+        "battle"
+      ]
+    },
+    {
+      "id": "kohannya-6",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/6.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Frying pan at the ready",
+      "emoji": [
+        "🍳",
+        "😠"
+      ],
+      "keywords": [
+        "cook",
+        "angry",
+        "pan"
+      ]
+    },
+    {
+      "id": "kohannya-7",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/7.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A relaxing spa morning",
+      "emoji": [
+        "🧖",
+        "☕",
+        "😌"
+      ],
+      "keywords": [
+        "spa",
+        "relax",
+        "self",
+        "care"
+      ]
+    },
+    {
+      "id": "kohannya-8",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/8.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Reading quietly",
+      "emoji": [
+        "📖",
+        "😐"
+      ],
+      "keywords": [
+        "read",
+        "book",
+        "calm"
+      ]
+    },
+    {
+      "id": "kohannya-9",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/9.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sending love",
+      "emoji": [
+        "❤️",
+        "🥰",
+        "🫶"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "affection"
+      ]
+    },
+    {
+      "id": "kohannya-10",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/10.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Feeling shy",
+      "emoji": [
+        "🥺",
+        "🙈"
+      ],
+      "keywords": [
+        "shy",
+        "bashful",
+        "timid"
+      ]
+    },
+    {
+      "id": "kohannya-11",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/11.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Calm down",
+      "emoji": [
+        "😌",
+        "✋"
+      ],
+      "keywords": [
+        "calm",
+        "relax",
+        "patience"
+      ]
+    },
+    {
+      "id": "kohannya-12",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/12.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Shopping time",
+      "emoji": [
+        "🛍️",
+        "😍"
+      ],
+      "keywords": [
+        "shop",
+        "shopping",
+        "excited"
+      ]
+    },
+    {
+      "id": "kohannya-13",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/13.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Call me",
+      "emoji": [
+        "📞",
+        "🤙"
+      ],
+      "keywords": [
+        "call",
+        "phone"
+      ]
+    },
+    {
+      "id": "kohannya-14",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/14.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A heart for you",
+      "emoji": [
+        "❤️",
+        "🎁",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "gift"
+      ]
+    },
+    {
+      "id": "kohannya-15",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/15.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sharing an umbrella",
+      "emoji": [
+        "☔",
+        "🫂",
+        "❤️"
+      ],
+      "keywords": [
+        "rain",
+        "comfort",
+        "together"
+      ]
+    },
+    {
+      "id": "kohannya-16",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/16.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sulking after an argument",
+      "emoji": [
+        "😒",
+        "💔"
+      ],
+      "keywords": [
+        "sulk",
+        "upset",
+        "argument"
+      ]
+    },
+    {
+      "id": "kohannya-17",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/17.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Crying over a broken heart",
+      "emoji": [
+        "😭",
+        "💔",
+        "😢"
+      ],
+      "keywords": [
+        "cry",
+        "sad",
+        "heartbreak"
+      ]
+    },
+    {
+      "id": "kohannya-18",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/18.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A warm sleepy cuddle",
+      "emoji": [
+        "😴",
+        "🫂",
+        "🥰"
+      ],
+      "keywords": [
+        "sleep",
+        "hug",
+        "cuddle"
+      ]
+    },
+    {
+      "id": "kohannya-19",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/19.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Movie night together",
+      "emoji": [
+        "🎬",
+        "🍿",
+        "❤️"
+      ],
+      "keywords": [
+        "movie",
+        "cinema",
+        "date"
+      ]
+    },
+    {
+      "id": "kohannya-20",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/20.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Playing games together",
+      "emoji": [
+        "🎮",
+        "🛋️"
+      ],
+      "keywords": [
+        "game",
+        "play",
+        "together"
+      ]
+    },
+    {
+      "id": "kohannya-21",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/21.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Dancing together",
+      "emoji": [
+        "💃",
+        "🎶",
+        "🕺"
+      ],
+      "keywords": [
+        "dance",
+        "music",
+        "happy"
+      ]
+    },
+    {
+      "id": "kohannya-22",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/22.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sketching a loved one",
+      "emoji": [
+        "🎨",
+        "✏️",
+        "❤️"
+      ],
+      "keywords": [
+        "draw",
+        "art",
+        "portrait",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-23",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/23.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Getting ready",
+      "emoji": [
+        "💄",
+        "🪞"
+      ],
+      "keywords": [
+        "makeup",
+        "ready",
+        "beauty"
+      ]
+    },
+    {
+      "id": "kohannya-24",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/24.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Want to go for a walk",
+      "emoji": [
+        "🚶",
+        "👋"
+      ],
+      "keywords": [
+        "walk",
+        "invite",
+        "outside"
+      ]
+    },
+    {
+      "id": "kohannya-25",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/25.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Drawing a heart in the snow",
+      "emoji": [
+        "❤️",
+        "❄️"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "snow"
+      ]
+    },
+    {
+      "id": "kohannya-26",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/26.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A kiss on the cheek",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "cheek",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-27",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/27.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "I love you",
+      "emoji": [
+        "❤️",
+        "🥰",
+        "💌"
+      ],
+      "keywords": [
+        "love",
+        "adore"
+      ]
+    },
+    {
+      "id": "kohannya-28",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/28.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Our wedding day",
+      "emoji": [
+        "💍",
+        "👰",
+        "🤵"
+      ],
+      "keywords": [
+        "wedding",
+        "marriage",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-29",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/29.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A romantic dinner",
+      "emoji": [
+        "🍷",
+        "❤️",
+        "🥂"
+      ],
+      "keywords": [
+        "date",
+        "dinner",
+        "romance"
+      ]
+    },
+    {
+      "id": "kohannya-30",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/30.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Holding my heart",
+      "emoji": [
+        "❤️",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "happy"
+      ]
+    },
+    {
+      "id": "kohannya-31",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/31.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "You and me forever",
+      "emoji": [
+        "❤️",
+        "🌳"
+      ],
+      "keywords": [
+        "love",
+        "forever",
+        "together"
+      ]
+    },
+    {
+      "id": "kohannya-32",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/32.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A shy heart for you",
+      "emoji": [
+        "❤️",
+        "🥺"
+      ],
+      "keywords": [
+        "love",
+        "shy",
+        "heart"
+      ]
+    },
+    {
+      "id": "kohannya-33",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/33.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Flowers for you",
+      "emoji": [
+        "💐",
+        "🎁",
+        "❤️"
+      ],
+      "keywords": [
+        "flowers",
+        "gift",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-34",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/34.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Good morning breakfast",
+      "emoji": [
+        "☀️",
+        "☕",
+        "🍳"
+      ],
+      "keywords": [
+        "morning",
+        "breakfast",
+        "coffee"
+      ]
+    },
+    {
+      "id": "kohannya-35",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/35.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Blowing a kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-36",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/36.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A happy hello",
+      "emoji": [
+        "👋",
+        "🤗"
+      ],
+      "keywords": [
+        "hello",
+        "hi",
+        "greeting"
+      ]
+    },
+    {
+      "id": "kohannya-37",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/37.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "You are wonderful",
+      "emoji": [
+        "😍",
+        "❤️",
+        "🤩"
+      ],
+      "keywords": [
+        "love",
+        "admire",
+        "amazing"
+      ]
+    },
+    {
+      "id": "kohannya-38",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/38.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A big loving hug",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "cuddle",
+        "love"
+      ]
+    },
+    {
+      "id": "kohannya-39",
+      "pack": "kohannya",
+      "file": "stickers/kohannya/39.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Sharing a cookie",
+      "emoji": [
+        "🍪",
+        "😋",
+        "🥰"
+      ],
+      "keywords": [
+        "cookie",
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "id": "summer-0",
+      "pack": "summer",
+      "file": "stickers/summer/0.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A happy hug",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "cuddle",
+        "love"
+      ]
+    },
+    {
+      "id": "summer-1",
+      "pack": "summer",
+      "file": "stickers/summer/1.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "You are welcome",
+      "emoji": [
+        "😊",
+        "🫶"
+      ],
+      "keywords": [
+        "welcome",
+        "thanks",
+        "happy"
+      ]
+    },
+    {
+      "id": "summer-2",
+      "pack": "summer",
+      "file": "stickers/summer/2.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "We are losing the patient",
+      "emoji": [
+        "😱",
+        "🩺"
+      ],
+      "keywords": [
+        "panic",
+        "doctor",
+        "emergency"
+      ]
+    },
+    {
+      "id": "summer-3",
+      "pack": "summer",
+      "file": "stickers/summer/3.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Feeling bashful",
+      "emoji": [
+        "🥺",
+        "🙈"
+      ],
+      "keywords": [
+        "shy",
+        "bashful"
+      ]
+    },
+    {
+      "id": "summer-4",
+      "pack": "summer",
+      "file": "stickers/summer/4.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Suspicious sideways glance",
+      "emoji": [
+        "🤨",
+        "👀"
+      ],
+      "keywords": [
+        "suspicious",
+        "skeptical",
+        "glance"
+      ]
+    },
+    {
+      "id": "summer-5",
+      "pack": "summer",
+      "file": "stickers/summer/5.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A sunset kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "sunset",
+        "love"
+      ]
+    },
+    {
+      "id": "summer-6",
+      "pack": "summer",
+      "file": "stickers/summer/6.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Love with open arms",
+      "emoji": [
+        "❤️",
+        "🤗"
+      ],
+      "keywords": [
+        "love",
+        "hug",
+        "welcome"
+      ]
+    },
+    {
+      "id": "summer-7",
+      "pack": "summer",
+      "file": "stickers/summer/7.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Hugging a heart",
+      "emoji": [
+        "❤️",
+        "🫂",
+        "🥰"
+      ],
+      "keywords": [
+        "love",
+        "heart",
+        "hug"
+      ]
+    },
+    {
+      "id": "summer-8",
+      "pack": "summer",
+      "file": "stickers/summer/8.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Dancing in the sunshine",
+      "emoji": [
+        "💃",
+        "🕺",
+        "☀️"
+      ],
+      "keywords": [
+        "dance",
+        "summer",
+        "happy"
+      ]
+    },
+    {
+      "id": "summer-9",
+      "pack": "summer",
+      "file": "stickers/summer/9.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Good morning cuddle",
+      "emoji": [
+        "☀️",
+        "🫂",
+        "😴"
+      ],
+      "keywords": [
+        "morning",
+        "cuddle",
+        "sleep"
+      ]
+    },
+    {
+      "id": "summer-10",
+      "pack": "summer",
+      "file": "stickers/summer/10.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A playful nibble",
+      "emoji": [
+        "😋",
+        "😼"
+      ],
+      "keywords": [
+        "bite",
+        "nibble",
+        "playful"
+      ]
+    },
+    {
+      "id": "summer-11",
+      "pack": "summer",
+      "file": "stickers/summer/11.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Love bites",
+      "emoji": [
+        "😼",
+        "❤️"
+      ],
+      "keywords": [
+        "bite",
+        "nibble",
+        "love"
+      ]
+    },
+    {
+      "id": "summer-12",
+      "pack": "summer",
+      "file": "stickers/summer/12.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Together in the sand",
+      "emoji": [
+        "🏖️",
+        "❤️"
+      ],
+      "keywords": [
+        "beach",
+        "together",
+        "summer"
+      ]
+    },
+    {
+      "id": "summer-13",
+      "pack": "summer",
+      "file": "stickers/summer/13.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A kiss on the forehead",
+      "emoji": [
+        "😘",
+        "💋",
+        "🥰"
+      ],
+      "keywords": [
+        "kiss",
+        "care",
+        "forehead"
+      ]
+    },
+    {
+      "id": "summer-14",
+      "pack": "summer",
+      "file": "stickers/summer/14.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "So much love",
+      "emoji": [
+        "❤️",
+        "🥰",
+        "😍"
+      ],
+      "keywords": [
+        "love",
+        "adore"
+      ]
+    },
+    {
+      "id": "summer-15",
+      "pack": "summer",
+      "file": "stickers/summer/15.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "You are my sunshine",
+      "emoji": [
+        "☀️",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "sunshine",
+        "love",
+        "adore"
+      ]
+    },
+    {
+      "id": "summer-16",
+      "pack": "summer",
+      "file": "stickers/summer/16.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A gentle cheek kiss",
+      "emoji": [
+        "😘",
+        "💋",
+        "❤️"
+      ],
+      "keywords": [
+        "kiss",
+        "cheek",
+        "love"
+      ]
+    },
+    {
+      "id": "summer-17",
+      "pack": "summer",
+      "file": "stickers/summer/17.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Blushing with delight",
+      "emoji": [
+        "🥰",
+        "😊",
+        "🙈"
+      ],
+      "keywords": [
+        "blush",
+        "shy",
+        "happy"
+      ]
+    },
+    {
+      "id": "summer-18",
+      "pack": "summer",
+      "file": "stickers/summer/18.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Oh my",
+      "emoji": [
+        "😏",
+        "👓"
+      ],
+      "keywords": [
+        "surprised",
+        "glasses",
+        "oh",
+        "my"
+      ]
+    },
+    {
+      "id": "summer-19",
+      "pack": "summer",
+      "file": "stickers/summer/19.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Feeling like royalty",
+      "emoji": [
+        "👑",
+        "😏"
+      ],
+      "keywords": [
+        "queen",
+        "royal",
+        "confident"
+      ]
+    },
+    {
+      "id": "summer-20",
+      "pack": "summer",
+      "file": "stickers/summer/20.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Little paws",
+      "emoji": [
+        "🐾",
+        "🥺"
+      ],
+      "keywords": [
+        "paws",
+        "helpless",
+        "please"
+      ]
+    },
+    {
+      "id": "summer-21",
+      "pack": "summer",
+      "file": "stickers/summer/21.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "With love from the sea",
+      "emoji": [
+        "🌊",
+        "❤️",
+        "⛵"
+      ],
+      "keywords": [
+        "sea",
+        "holiday",
+        "love"
+      ]
+    },
+    {
+      "id": "summer-22",
+      "pack": "summer",
+      "file": "stickers/summer/22.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Enjoying ice cream",
+      "emoji": [
+        "🍦",
+        "😋"
+      ],
+      "keywords": [
+        "ice",
+        "cream",
+        "eat",
+        "dessert"
+      ]
+    },
+    {
+      "id": "summer-23",
+      "pack": "summer",
+      "file": "stickers/summer/23.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Melting in the heat",
+      "emoji": [
+        "🥵",
+        "🫠",
+        "🍦"
+      ],
+      "keywords": [
+        "hot",
+        "heat",
+        "melting"
+      ]
+    },
+    {
+      "id": "summer-24",
+      "pack": "summer",
+      "file": "stickers/summer/24.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Off on holiday",
+      "emoji": [
+        "🚗",
+        "🏖️",
+        "😎"
+      ],
+      "keywords": [
+        "holiday",
+        "vacation",
+        "travel"
+      ]
+    },
+    {
+      "id": "summer-25",
+      "pack": "summer",
+      "file": "stickers/summer/25.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Relaxing at the beach",
+      "emoji": [
+        "🏖️",
+        "😎"
+      ],
+      "keywords": [
+        "beach",
+        "relax",
+        "holiday"
+      ]
+    },
+    {
+      "id": "summer-26",
+      "pack": "summer",
+      "file": "stickers/summer/26.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Snacks on the sofa",
+      "emoji": [
+        "🍕",
+        "🎮"
+      ],
+      "keywords": [
+        "food",
+        "pizza",
+        "game",
+        "lazy"
+      ]
+    },
+    {
+      "id": "summer-27",
+      "pack": "summer",
+      "file": "stickers/summer/27.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Workout time",
+      "emoji": [
+        "💪",
+        "🏋️"
+      ],
+      "keywords": [
+        "exercise",
+        "workout",
+        "fitness"
+      ]
+    },
+    {
+      "id": "summer-28",
+      "pack": "summer",
+      "file": "stickers/summer/28.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Too hot to move",
+      "emoji": [
+        "🥵",
+        "☀️",
+        "🫠"
+      ],
+      "keywords": [
+        "hot",
+        "heat",
+        "summer"
+      ]
+    },
+    {
+      "id": "summer-29",
+      "pack": "summer",
+      "file": "stickers/summer/29.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "I am here for you",
+      "emoji": [
+        "🫂",
+        "❤️",
+        "🥰"
+      ],
+      "keywords": [
+        "hug",
+        "support",
+        "comfort"
+      ]
+    },
+    {
+      "id": "summer-30",
+      "pack": "summer",
+      "file": "stickers/summer/30.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A reassuring shoulder pat",
+      "emoji": [
+        "🤗",
+        "🫶"
+      ],
+      "keywords": [
+        "comfort",
+        "support",
+        "care"
+      ]
+    },
+    {
+      "id": "summer-31",
+      "pack": "summer",
+      "file": "stickers/summer/31.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Stop right there",
+      "emoji": [
+        "✋",
+        "😠"
+      ],
+      "keywords": [
+        "stop",
+        "no",
+        "annoyed"
+      ]
+    },
+    {
+      "id": "summer-32",
+      "pack": "summer",
+      "file": "stickers/summer/32.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Please do not",
+      "emoji": [
+        "🥺",
+        "🙏"
+      ],
+      "keywords": [
+        "please",
+        "no",
+        "pleading"
+      ]
+    },
+    {
+      "id": "summer-33",
+      "pack": "summer",
+      "file": "stickers/summer/33.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Shy and blushing",
+      "emoji": [
+        "😊",
+        "🙈",
+        "🥰"
+      ],
+      "keywords": [
+        "shy",
+        "blush",
+        "happy"
+      ]
+    },
+    {
+      "id": "summer-34",
+      "pack": "summer",
+      "file": "stickers/summer/34.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Hugging my favorite person",
+      "emoji": [
+        "🫂",
+        "🥰",
+        "❤️"
+      ],
+      "keywords": [
+        "hug",
+        "love",
+        "cuddle"
+      ]
+    },
+    {
+      "id": "summer-35",
+      "pack": "summer",
+      "file": "stickers/summer/35.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Banana ban",
+      "emoji": [
+        "🍌",
+        "😠",
+        "⛔"
+      ],
+      "keywords": [
+        "ban",
+        "stop",
+        "angry",
+        "banana"
+      ]
+    },
+    {
+      "id": "summer-36",
+      "pack": "summer",
+      "file": "stickers/summer/36.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A confused little face",
+      "emoji": [
+        "😳",
+        "❓"
+      ],
+      "keywords": [
+        "confused",
+        "surprise"
+      ]
+    },
+    {
+      "id": "summer-37",
+      "pack": "summer",
+      "file": "stickers/summer/37.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "A comforting head kiss",
+      "emoji": [
+        "😘",
+        "🫂",
+        "🥺"
+      ],
+      "keywords": [
+        "kiss",
+        "comfort",
+        "sad"
+      ]
+    },
+    {
+      "id": "summer-38",
+      "pack": "summer",
+      "file": "stickers/summer/38.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Listening to music together",
+      "emoji": [
+        "🎧",
+        "🎶",
+        "😌"
+      ],
+      "keywords": [
+        "music",
+        "relax",
+        "together"
+      ]
+    },
+    {
+      "id": "summer-39",
+      "pack": "summer",
+      "file": "stickers/summer/39.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Walking together at night",
+      "emoji": [
+        "🌙",
+        "🫂",
+        "❤️"
+      ],
+      "keywords": [
+        "night",
+        "walk",
+        "date"
+      ]
+    },
+    {
+      "id": "summer-40",
+      "pack": "summer",
+      "file": "stickers/summer/40.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Just married",
+      "emoji": [
+        "💍",
+        "🎉",
+        "❤️"
+      ],
+      "keywords": [
+        "wedding",
+        "marriage",
+        "celebrate"
+      ]
+    },
+    {
+      "id": "summer-41",
+      "pack": "summer",
+      "file": "stickers/summer/41.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Dinner and wine together",
+      "emoji": [
+        "🍷",
+        "🥂",
+        "❤️"
+      ],
+      "keywords": [
+        "dinner",
+        "date",
+        "romance"
+      ]
+    },
+    {
+      "id": "summer-42",
+      "pack": "summer",
+      "file": "stickers/summer/42.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Time to sleep",
+      "emoji": [
+        "😴",
+        "💤"
+      ],
+      "keywords": [
+        "sleep",
+        "tired",
+        "bedtime"
+      ]
+    },
+    {
+      "id": "summer-43",
+      "pack": "summer",
+      "file": "stickers/summer/43.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Good night cuddle",
+      "emoji": [
+        "🌙",
+        "😴",
+        "🫂"
+      ],
+      "keywords": [
+        "night",
+        "sleep",
+        "cuddle"
+      ]
+    },
+    {
+      "id": "summer-44",
+      "pack": "summer",
+      "file": "stickers/summer/44.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Relaxing in a field of flowers",
+      "emoji": [
+        "🌼",
+        "😌"
+      ],
+      "keywords": [
+        "flowers",
+        "relax",
+        "nature"
+      ]
+    },
+    {
+      "id": "summer-45",
+      "pack": "summer",
+      "file": "stickers/summer/45.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Awkward and embarrassed",
+      "emoji": [
+        "😬",
+        "🙈"
+      ],
+      "keywords": [
+        "awkward",
+        "embarrassed"
+      ]
+    },
+    {
+      "id": "summer-46",
+      "pack": "summer",
+      "file": "stickers/summer/46.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Barbecue time",
+      "emoji": [
+        "🍢",
+        "😋"
+      ],
+      "keywords": [
+        "barbecue",
+        "grill",
+        "food"
+      ]
+    },
+    {
+      "id": "summer-47",
+      "pack": "summer",
+      "file": "stickers/summer/47.webp",
+      "type": "image",
+      "width": 512,
+      "height": 512,
+      "title": "Shoo little bug",
+      "emoji": [
+        "🦟",
+        "😠"
+      ],
+      "keywords": [
+        "mosquito",
+        "bug",
+        "annoyed"
+      ]
+    }
+  ]
+}

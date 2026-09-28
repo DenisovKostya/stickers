@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+node_modules/
+
+# Original exports are local backups; publish the extracted stickers only.
+/*_batch_webp.zip

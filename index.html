@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f7fb">
+  <meta name="description" content="A little collection of love, sunshine, and cozy moments. Browse 136 fox and cat stickers.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Little Moments · Sticker collection</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#gallery">Skip to stickers</a>
+  <main class="shell">
+    <header class="header"><a class="brand" href="./" aria-label="Little Moments home"><span class="brand-mark" aria-hidden="true">✳</span> little moments<span class="brand-dot">.</span></a><span class="collection-label">THE STICKER COLLECTION</span></header>
+    <section class="intro"><div><p class="eyebrow">SMALL STICKERS. BIG FEELINGS.</p><h1>A moment for every mood<span>.</span></h1><p class="intro-copy">Love, sunshine, and a little mischief.</p></div><div class="intro-art" aria-hidden="true"><img src="stickers/summer/0.webp" width="512" height="512" alt=""><span>Made for sharing feelings</span></div></section>
+    <section class="browser" aria-label="Browse stickers">
+      <div class="controls">
+        <div class="search-field"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><label class="sr-only" for="search">Search stickers by emoji, feeling, or action</label><input id="search" type="search" placeholder="Search a feeling, action, or emoji…" autocomplete="off" enterkeyhint="search"><button id="clear-search" class="clear" aria-label="Clear search" hidden>×</button></div>
+        <div id="pack-filters" class="pack-filters" role="group" aria-label="Filter by sticker pack"></div>
+        <div class="moods" role="group" aria-label="Search by mood"><span>Find a feeling</span><button data-query="love">❤️ Love</button><button data-query="hug">🫂 Hugs</button><button data-query="kiss">😘 Kisses</button><button data-query="happy">😊 Happy</button><button data-query="sad">😢 Sad</button><button data-query="sleep">😴 Sleepy</button></div>
+      </div>
+      <div class="results-heading"><h2 id="selection-title">All little moments</h2><p id="result-count" role="status" aria-live="polite">Loading stickers…</p></div>
+      <div id="gallery" class="grid" tabindex="-1" aria-label="Sticker gallery"></div>
+      <div id="empty" class="empty" hidden><span aria-hidden="true">🔎</span><h2>No moments found</h2><p>Try “hug”, “coffee”, or an emoji like ❤️.</p><button id="reset" class="primary">Reset search and filters</button></div>
+      <div id="error" class="empty" hidden><h2>The collection couldn’t load</h2><p>Check your connection and try again.</p><button id="retry" class="primary">Try again</button></div>
+      <noscript><p>Please enable JavaScript to browse and search this sticker collection.</p></noscript>
+    </section>
+    <footer><span>little moments<span class="brand-dot">.</span></span><p>Three packs. A whole lot of feelings.</p><a href="#">Back to top ↑</a></footer>
+  </main>
+  <dialog id="preview" aria-labelledby="preview-title"><div class="preview-inner"><div class="preview-top"><span id="preview-pack"></span><button id="close-preview" class="icon-button" aria-label="Close preview" autofocus>×</button></div><div id="preview-media" class="preview-media"></div><h2 id="preview-title"></h2><div id="preview-emojis" class="preview-emojis" aria-label="Emoji tags"></div><p id="preview-keywords" class="preview-keywords"></p><div class="preview-nav"><button id="previous" aria-label="Previous sticker">← Previous</button><span id="preview-position"></span><button id="next" aria-label="Next sticker">Next →</button></div></div></dialog>
+</body>
+</html>
